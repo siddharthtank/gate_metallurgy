@@ -41,7 +41,7 @@ p > a{
     color: white;
 }
 
-button{
+a > button{
     background: #ffa200;
     border: none;
     padding: 15px;
@@ -51,6 +51,7 @@ button{
     font-size: 16px;
     font-weight: 600;
     cursor: pointer;
+    text-decoration: none;
 }
 
 a{
