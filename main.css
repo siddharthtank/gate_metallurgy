@@ -37,7 +37,7 @@ p{
 }
 
 
-a > button{
+a button{
     text-decoration: none;
     color: black;
     background: #ffa200;
@@ -49,7 +49,7 @@ a > button{
     border-radius: 10px;
 }
 
-a > button:hover{
+a button:hover{
     background: #fff;
     color: #ffa200;
 }
