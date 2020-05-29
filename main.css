@@ -41,7 +41,7 @@ p > a{
     color: white;
 }
 
-a > button{
+button{
     background: #ffa200;
     border: none;
     padding: 15px;
@@ -56,6 +56,7 @@ a > button{
 
 a{
     text-decoration: none;
+    color: black;
 }
 
 button:hover{
