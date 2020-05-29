@@ -36,30 +36,20 @@ p{
     font-size: 20px;
 }
 
-p > a{
-    text-decoration: none;
-    color: white;
-}
 
-button{
+a > button{
+    text-decoration: none;
+    color: black;
     background: #ffa200;
     border: none;
+    cursor: pointer;
     padding: 15px;
-    border-radius: 10px;
-    margin-top: 30px;
-    color: black;
     font-size: 16px;
     font-weight: 600;
-    cursor: pointer;
-    text-decoration: none;
+    border-radius: 10px;
 }
 
-a{
-    text-decoration: none;
-    color: black;
-}
-
-button:hover{
+a > button:hover{
     background: #fff;
     color: #ffa200;
 }
